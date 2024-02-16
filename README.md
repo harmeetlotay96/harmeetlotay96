@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Harmeet
 #### I am a Kenyan born English speaking Punjabi who enjoys working with data and solving untouched and complex problems. I am currently exploring the world of CNNs and RNNs and their role in Image classification, Forecasting and Natural Language Processing.
-![I am a Kenyan born English speaking Punjabi who enjoys working with data and solving untouched and complex problems. I am currently exploring the world of CNNs and RNNs and their role in Image classification, Forecasting and Natural Language Processing.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Kenyan born English speaking Punjabi who enjoys working with data and solving untouched and complex problems. I am currently exploring the world of CNNs and RNNs and their role in Image classification, Forecasting and Natural Language Processing.](<iframe src="https://giphy.com/embed/doXBzUFJRxpaUbuaqz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz">via GIPHY</a></p>)
 
 * 📖 Data Science Graduate Student at the University of The Pacific 🏫
 * 👨‍🎓 Bachelor's Degree in Actuarial Science
