@@ -5,7 +5,7 @@
 * 📖 Data Science Graduate Student at the University of The Pacific 🏫
 * 👨‍🎓 Bachelor's Degree in Actuarial Science
 * ✔️ 5+ years experience in problem solving for financial institutions
-
+<br></br>
 Technologies & Tools 🔧: 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=A48D0F)
