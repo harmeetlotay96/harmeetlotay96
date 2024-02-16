@@ -18,6 +18,12 @@ Technologies & Tools 🔧:
 ![](https://img.shields.io/badge/Tool-Google_Sheets-informational?style=flat&logo=google-sheets&logoColor=white&color=A48D0F)
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
 
+Skills 🎳:
+![](https://img.shields.io/badge/Tool-Tensorflow-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
+
+
+
+
 Something more about me 😄:
 - 🌱 I’m currently learning NLPs 
 - 📫 How to reach me: lotteyharmeet@gmail.com 
