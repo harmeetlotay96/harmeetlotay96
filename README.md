@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Harmeet
 #### I am a Kenyan born English speaking Punjabi who enjoys working with data and solving untouched and complex problems. I am currently exploring the world of CNNs and RNNs and their role in Image classification, Forecasting and Natural Language Processing.
 
-(https://github.com/harmeetlotay96/harmeetlotay96/blob/main/HARMEET%20SINGH%20Header.png)
+['photo'](https://github.com/harmeetlotay96/harmeetlotay96/blob/main/HARMEET%20SINGH%20Header.png)
 * 📖 Data Science Graduate Student at the University of The Pacific 🏫
 * 👨‍🎓 Bachelor's Degree in Actuarial Science
 * ✔️ 5+ years experience in problem solving for financial institutions
