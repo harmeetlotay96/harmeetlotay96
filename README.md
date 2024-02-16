@@ -7,7 +7,7 @@
 * ✔️ 5+ years experience in problem solving for financial institutions
 <br></br>
 Technologies & Tools 🔧: 
-
+<br></br>
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=A48D0F)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=A48D0F)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=A48D0F)
