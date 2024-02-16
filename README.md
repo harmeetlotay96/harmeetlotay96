@@ -19,7 +19,14 @@ Technologies & Tools 🔧:
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
 
 Skills 🎳:
+
+![](https://img.shields.io/badge/Module-Tensorflow-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
+![](https://img.shields.io/badge/Module-Keras-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
+![](https://img.shields.io/badge/Skill-CNN-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
+![](https://img.shields.io/badge/Skill-RNN-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
 ![](https://img.shields.io/badge/Tool-Tensorflow-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
+![](https://img.shields.io/badge/Tool-Tensorflow-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
+
 
 
 
