@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Harmeet
 #### I am a Kenyan born English speaking Punjabi who enjoys working with data and solving untouched and complex problems. I am currently exploring the world of CNNs and RNNs and their role in Image classification, Forecasting and Natural Language Processing.
 
-<img src="https://github.com/harmeetlotay96/harmeetlotay96/blob/main/HARMEET%20SINGH%20Header.png" width="1000" height="400">
+(https://github.com/harmeetlotay96/harmeetlotay96/blob/main/HARMEET%20SINGH%20Header.png)
 * 📖 Data Science Graduate Student at the University of The Pacific 🏫
 * 👨‍🎓 Bachelor's Degree in Actuarial Science
 * ✔️ 5+ years experience in problem solving for financial institutions
-<br></br>
+
 Technologies & Tools 🔧: 
-<br></br>
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=A48D0F)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=A48D0F)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=A48D0F)
