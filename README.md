@@ -18,7 +18,7 @@ Technologies & Tools 🔧:
 ![](https://img.shields.io/badge/Tool-Google_Sheets-informational?style=flat&logo=google-sheets&logoColor=white&color=A48D0F)
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
 
-Skills 🎳:
+Modules & Skills 🎳:
 
 ![](https://img.shields.io/badge/Module-Tensorflow-informational?style=flat&logo=tableau&logoColor=white&color=1BC20D)
 ![](https://img.shields.io/badge/Module-Keras-informational?style=flat&logo=tableau&logoColor=white&color=1BC20D)
