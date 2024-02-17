@@ -2,7 +2,7 @@
 #### I am a Kenyan born English speaking Punjabi who enjoys working with data and solving untouched and complex problems. I am currently exploring the world of CNNs and RNNs and their role in Image classification, Forecasting and Natural Language Processing.
 
 <h1 align="center">
-  <img src="https://github.com/harmeetlotay96/harmeetlotay96/blob/main/HARMEET%20SINGH%20Header.png" alt="HarmeetSingh" />
+  <img src="https://media.licdn.com/dms/image/D5616AQEZb6fWc6S5OA/profile-displaybackgroundimage-shrink_350_1400/0/1708141312955?e=1713398400&v=beta&t=xBy9B-wRURB3w6D7uiOAsbJmxWE10hmiL0IE-TektNc" alt="HarmeetSingh" />
 </h1>
 
 * 📖 Data Science Graduate Student at the University of The Pacific 🏫
