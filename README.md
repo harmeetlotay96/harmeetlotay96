@@ -28,6 +28,10 @@ Modules & Skills 🎳:
 ![](https://img.shields.io/badge/Skill-CNNs-informational?style=flat&logo=tableau&logoColor=white&color=1BC20D)
 ![](https://img.shields.io/badge/Skill-RNNs-informational?style=flat&logo=tableau&logoColor=white&color=1BC20D)
 
+Certifications 🏁:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
+
+
 Something more about me 😄:
 - 🌱 I’m currently learning NLPs 
 - 📫 How to reach me: lotteyharmeet@gmail.com 
