@@ -20,12 +20,12 @@ Technologies & Tools 🔧:
 
 Skills 🎳:
 
-![](https://img.shields.io/badge/Module-Tensorflow-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
-![](https://img.shields.io/badge/Module-Keras-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
-![](https://img.shields.io/badge/Skill-CNN-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
-![](https://img.shields.io/badge/Skill-RNN-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
-![](https://img.shields.io/badge/Tool-Tensorflow-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
-![](https://img.shields.io/badge/Tool-Tensorflow-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
+![](https://img.shields.io/badge/Module-Tensorflow-informational?style=flat&logo=tableau&logoColor=white&color=1BC20D)
+![](https://img.shields.io/badge/Module-Keras-informational?style=flat&logo=tableau&logoColor=white&color=1BC20D)
+![](https://img.shields.io/badge/Skill-CNNs-informational?style=flat&logo=tableau&logoColor=white&color=1BC20D)
+![](https://img.shields.io/badge/Skill-RNNs-informational?style=flat&logo=tableau&logoColor=white&color=1BC20D)
+![](https://img.shields.io/badge/Tool-scikitLearn-informational?style=flat&logo=tableau&logoColor=white&color=1BC20D)
+![](https://img.shields.io/badge/Tool-OpenCV-informational?style=flat&logo=tableau&logoColor=white&color=1BC20D)
 
 
 
