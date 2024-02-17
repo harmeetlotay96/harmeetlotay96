@@ -30,7 +30,7 @@ Modules & Skills 🎳:
 
 Certifications 🏁:
 
-<img src="https://github.com/harmeetlotay96/harmeetlotay96/blob/main/DataScience%20Bootcamp%202024%20-%20Udemy%20HS.png" alt="bootcampcert" height="500", width="700"/>
+<img src="https://github.com/harmeetlotay96/harmeetlotay96/blob/main/DataScience%20Bootcamp%202024%20-%20Udemy%20HS.png" alt="bootcampcert" height='500' width='700'/>
 
 
 Something more about me 😄:
