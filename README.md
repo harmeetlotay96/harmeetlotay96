@@ -29,7 +29,7 @@ Modules & Skills 🎳:
 ![](https://img.shields.io/badge/Skill-RNNs-informational?style=flat&logo=tableau&logoColor=white&color=1BC20D)
 
 Certifications 🏁:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
+[<img src='https://github.com/harmeetlotay96/harmeetlotay96/blob/main/Data%20Science%20Bootcamp%202024%20-%20Udemy%20HS.png' alt='bootcamp_cert'>]
 
 
 Something more about me 😄:
