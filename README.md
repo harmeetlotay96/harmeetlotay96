@@ -31,7 +31,7 @@ Modules & Skills 🎳:
 Certifications 🏁:
 
 <img src="https://github.com/harmeetlotay96/harmeetlotay96/blob/main/DataScience%20Bootcamp%202024%20-%20Udemy%20HS.png" alt="bootcampcert" height='250' width='350'/>
-<img src="(https://github.com/harmeetlotay96/harmeetlotay96/blob/main/DeepLearning%20LLM%20certificate.pdf)" alt="llmcert" height='250' width='350'/>
+<img src="https://github.com/harmeetlotay96/harmeetlotay96/blob/main/LLM%20Certificate.png" alt="llmcert" height='250' width='350'/>
 
 
 Something more about me 😄:
