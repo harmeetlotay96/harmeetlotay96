@@ -35,7 +35,7 @@ Certifications 🏁:
 
 
 Something more about me 😄:
-- 🌱 I’m currently learning NLPs 
+- 🌱 I’m currently learning LLMs
 - 📫 How to reach me: lotteyharmeet@gmail.com 
 - ⚡ Fun fact: This is my last F1 season as a Mercedes Fan! 
 
